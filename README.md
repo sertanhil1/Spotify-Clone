@@ -12,7 +12,7 @@ This project is developed to create a simple clone of the Spotify music streamin
 - **React**
 - **Tailwind CSS**
 - **JavaScript**
-- 
+  
 
 ## Installation
 1. **Clone the Repository:**
