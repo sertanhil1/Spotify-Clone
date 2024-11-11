@@ -1,4 +1,4 @@
-# Spotify-CLone
+# Spotify-Clone
 
 ## Overview
 The Spotify Clone project is a web-based music streaming application that mirrors the key functionalities of Spotify. Built with React and Tailwind CSS, this clone provides users with the ability to stream music, switch between tracks seamlessly, and enjoy a fully responsive design that adapts to any device.
