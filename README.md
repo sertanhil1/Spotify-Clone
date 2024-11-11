@@ -17,13 +17,13 @@ The Spotify Clone project is a web-based music streaming application that mirror
   
 
 ## Installation
-1. *Clone the Repository:*
-   bash
-   git clone https://github.com/your_username/spotify-clone.git
-   cd spotify-clone
-2. **Install Dependencies:**
-   bash
-   npm install
-3. *Start the Application:*
+1. **Clone the Repository:**
    ```bash
-   npm run dev
+   git clone https://github.com/your_username/spotify-clone.git
+   cd Spotify-Clone
+2. **Install Dependencies:**
+   ```bash
+   npm install
+3. **Start the Application:**
+   ```bash
+   npm run dev
